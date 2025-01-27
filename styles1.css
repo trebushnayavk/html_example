@@ -1,0 +1,22 @@
+body {
+   font-size: 24px;
+}
+h3.small{
+    font-size:20px;
+ }
+h2.normal{
+    font-size:40px;
+ }
+h1.large{
+    font-size:60px;
+ }
+ p.bold{
+    font-weight:bold;
+ }
+ p.bold-italic {
+    font-weight:bold;
+    font-style:italic;
+ }
+ p.italic {
+    font-style:italic
+ }
